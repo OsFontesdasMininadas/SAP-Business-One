@@ -1,5 +1,5 @@
 
-Processo para pegar dados um Objetos e Exporta em XML  
+Processo para pegar dados de um Objeto e Exporta em XML  
 
 
                 //Declara oCompany para Pega Empresa Conectada
