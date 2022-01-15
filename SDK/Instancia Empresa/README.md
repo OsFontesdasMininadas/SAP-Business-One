@@ -12,3 +12,9 @@ oCompany = ((SAPbobsCOM.Company)SAPbouiCOM.Framework.Application.SBO_Application
 Exemplo:
 
 ![image](https://user-images.githubusercontent.com/91930440/147935553-516463c6-c3bc-46af-9012-26bae7888923.png)
+
+
+
+Para utilizar Chame a clase Program e oCompany?
+
+Program.oCompany
