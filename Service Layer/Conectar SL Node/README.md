@@ -58,4 +58,4 @@ axios(config)
 //Retorno de erro 
 .catch(function (error) {
   console.log(error);
-});
+}); 
